@@ -15,4 +15,4 @@ setInterval(function() {
     http.get(process.env.WEB6);
     console.log("done checking");
     console.log(`since running on ${startApp}, it's been ${checked} times`);
-}, 30 * 1000);
+},  1800000);

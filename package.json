@@ -1,0 +1,25 @@
+{
+  "name": "pingping",
+  "version": "1.0.0",
+  "description": "a node.js app to check if websites are still active",
+  "main": "ping.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "forever": "^0.15.3",
+    "ping": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdelorim/PingPing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdelorim/PingPing/issues"
+  },
+  "homepage": "https://github.com/Jdelorim/PingPing#readme"
+}
